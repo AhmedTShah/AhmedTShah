@@ -18,24 +18,24 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"/>](https://nodejs.org/en)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://react.dev/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](#)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](#S)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](#)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"/>](#)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](#)
 
 
 #### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://sass-lang.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://www.mysql.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://www.mysql.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](#)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](#)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](#)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](#)
 
 #### Tools:
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=visual-studio"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=visual-studio"/>](#)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](#)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](#)
 
 <br>
 
