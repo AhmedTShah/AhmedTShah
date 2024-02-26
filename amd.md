@@ -43,7 +43,7 @@
 
 [<img align="left" height="94px" width="94px" alt="GIKI" src="https://upload.wikimedia.org/wikipedia/en/8/8e/Ghulam_Ishaq_Khan_Institute_of_Engineering_Sciences_and_Technology_%28insignia%29.png"/>](https://giki.edu.pk/)
 **Computer Science Undergraduate** \
-[**GIKI**](https://giki.edu.pk/)  • In progress
+[**GIKI**](https://giki.edu.pk/)  • In progress (2023-2027)
 
 <br>
 
