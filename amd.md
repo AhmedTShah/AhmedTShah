@@ -41,9 +41,9 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGhulam_Ishaq_Khan_Institute_of_Engineering_Sciences_and_Technology&psig=AOvVaw3WkHYev5Vhauw2OzEplsxt&ust=1709024573226000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODQiOXSyIQDFQAAAAAdAAAAABAE"/>](https://giki.edu.pk/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGhulam_Ishaq_Khan_Institute_of_Engineering_Sciences_and_Technology&psig=AOvVaw3WkHYev5Vhauw2OzEplsxt&ust=1709024573226000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODQiOXSyIQDFQAAAAAdAAAAABAE](https://upload.wikimedia.org/wikipedia/en/8/8e/Ghulam_Ishaq_Khan_Institute_of_Engineering_Sciences_and_Technology_%28insignia%29.png)"/>](https://giki.edu.pk/)
 **Computer Science Undergraduate** \
-[**GIKI**](https://giki.edu.pk/)  • In progress\
+[**GIKI**](https://giki.edu.pk/)  • In progress
 
 <br>
 
